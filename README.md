@@ -16,14 +16,6 @@ We will make our best to create a great tool for your projects.
 - Generators for numbers distributed according to specified distributions
 - Functions for calculating statistical parameters of data
 
-# ToDo list
-
-**Random number generators**
-- minstd_rand0
-- minstd_rand
-- rand48
-- 
-
 # Future work
 
 In the future, we plan to add functionality related to random processes, random vectors, correlation matrices, and their applications. But for now we have no clue about utility of mentioned stuff.
