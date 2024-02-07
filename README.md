@@ -1,12 +1,28 @@
 # Stochastic-library
 
-This C++ library should become a healthy alternative for other libraries related to theory of probabilities, random numbers and random number generation in specific. We will make our best to create a great tool for using Monte Carlo methods, researching stochastic processes and other purposes.
+This C++ library will be developed with emphasis on scientific application. Though project is related to theory of probabilities, random numbers and random number generation in specific it can find use in wide spectre of needs with stochastic approach. 
+
+Possible applications:
+- Monte Carlo methods
+- Stochastic processes research
+- Statistical analysis
+- Games (non-deterministic behaviour)
+
+We will make our best to create a great tool for your projects.
 
 # Features
 
 - Random number generators
 - Generators for numbers distributed according to specified distributions
 - Functions for calculating statistical parameters of data
+
+# ToDo list
+
+**Random number generators**
+- minstd_rand0
+- minstd_rand
+- rand48
+- 
 
 # Future work
 
