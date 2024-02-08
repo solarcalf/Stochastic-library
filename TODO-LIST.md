@@ -1,3 +1,9 @@
+# Useful links
+
+1. https://habr.com/ru/companies/vk/articles/574414/ - Разбор алгоритмов генерации псевдослучайных чисел
+2. https://www.boostcpp.org/doc/libs/develop/doc/html/boost_random/reference.html - Документация библиотеки boost
+3. https://habr.com/ru/articles/263993/ - Генераторы непрерывно распределенных случайных величин
+
 # To-Do list
 
 **Random number generators**
