@@ -5,6 +5,12 @@
 3. https://habr.com/ru/articles/263993/ - Генераторы непрерывно распределенных случайных величин
 
 # To-Do list
+- need to fix compiler warning due to non-virtual destructor (after that compiler option '-Werror' must be turned on)
+- library structure
+- first interface development
+- investigate abilities for generators test (correctness & performance)
+
+# Planned functionality
 
 **Random number generators**
 - minstd_rand0
